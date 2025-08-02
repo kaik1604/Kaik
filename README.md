@@ -1,13 +1,24 @@
-## 👋 Hello, I'm Kaik Souza!
-
-🎓 I'm currently studying **Systems Analysis and Development** and working in the **Technology sector** with a focus on **Technical Support** and **Help Desk**.  
-💬 I specialize in providing clear, efficient support to end users, ensuring a smooth and satisfying technical experience.
-
-💡 I'm actively developing my skills to transition into the **Software Engineering** field, where I aspire to grow as a developer and contribute to impactful projects.
-
-🚀 I consider myself a **Java Junior Developer**, currently studying and practicing key technologies like Java, Spring Boot, SQL, and MySQL.
+Claro! Aqui está a **versão profissional em inglês** do seu README traduzido e adaptado:
 
 ---
+
+## 👋 Hello! I'm **Kaik Souza**
+
+🎓 I'm currently studying **Systems Analysis and Development** and working in the **Technology sector**, focusing on **Technical Support** and **Help Desk**.
+💬 I have experience delivering clear, efficient, and user-friendly technical support, ensuring a smooth experience for end users.
+
+🚀 I'm continuously developing my skills to grow in the **Software Engineering** field, aiming to contribute to meaningful and impactful projects.
+
+👨‍💻 I am a **Java Junior Developer**, currently focused on learning and practicing the following technologies:
+
+* **Java**
+* **Spring Boot**
+* **SQL**
+* **MySQL**
+
+---
+
+### 📊 GitHub Stats
 
 <picture>
   <source
@@ -26,10 +37,10 @@
 ### 🛠️ Technologies & Tools
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="SQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
 ---
