@@ -1,7 +1,3 @@
-Claro! Aqui está a **versão profissional em inglês** do seu README traduzido e adaptado:
-
----
-
 ## 👋 Hello! I'm **Kaik Souza**
 
 🎓 I'm currently studying **Systems Analysis and Development** and working in the **Technology sector**, focusing on **Technical Support** and **Help Desk**.
